@@ -1,6 +1,9 @@
 # Description
 This script converts human size or tallness from feet and inches to centimeters and vice versa. The user must specify a command line argument that can be either "i" or "m" for imperial and metric respectively, that will decide from which unit system the user is inputting. The second and third arguments must be either feet and inches or meters and centimeters depending on what was chosen.
 
+# Why
+Because I'm tired than when I (metric system user) speak with someone (imperial system user) and they ask me how tall I am and I PANIC!
+
 # Usage
 To use the script, save it to a file (e.g. "conversion.py") and run it from the terminal with the desired arguments.
 
