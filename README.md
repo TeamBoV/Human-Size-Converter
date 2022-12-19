@@ -5,14 +5,14 @@ This script converts human size or tallness from feet and inches to centimeters 
 Because I'm tired that when I (metric system user) speak with someone (imperial system user) and they ask me how tall I am and I PANIC! and AAAAAAAAH!!!
 
 # Usage
-To use the script, save it to a file (e.g. "conversion.py") and run it from the terminal with the desired arguments.
+To use the script, save it to a file (e.g. "humansizeconverter.py") and run it from the terminal with the desired arguments.
 
-    python conversion.py [i|m] feet inches|meters centimeters
+    python humansizeconverter.py [i|m] feet inches|meters centimeters
 
 # Examples
 Convert 5 feet 11 inches to meters and centimeters:
 
-    python conversion.py i 5 11
+    python humansizeconverter.py i 5 11
 
 Output:
 
@@ -20,7 +20,7 @@ Output:
 
 Convert 1 meter 80 centimeters to feet and inches:
 
-    python conversion.py m 1 80
+    python humansizeconverter.py m 1 80
 
 Output:
 
